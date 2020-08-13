@@ -1,0 +1,17 @@
+{
+  "discord_token": "",
+  "discord_guild": "",
+  "database":{
+    "host":"",
+    "user":"",
+    "password":""
+  },
+  "redditAuth":{
+    "client_id":"",
+    "client_secret":"",
+    "password":"",
+    "username":"",
+    "user_agent":""
+  },
+  "subReddits":[""]
+}
