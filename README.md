@@ -6,7 +6,6 @@ Simple bot made with Python & MariaDB
 
 * MariaDB
 * Python 3
-* pip
 
 ## Installation
 
