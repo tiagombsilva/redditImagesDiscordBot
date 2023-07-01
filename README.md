@@ -1,4 +1,4 @@
-# NSFW Discord Bot
+# Simple Reddit Image Retriever Discord bot
 
 Simple bot made with Python & MariaDB
 
